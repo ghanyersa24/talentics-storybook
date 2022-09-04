@@ -5,4 +5,5 @@ import talenticsTheme from "./talenticsTheme";
 
 addons.setConfig({
   theme: talenticsTheme,
+  panelPosition: "right",
 });
