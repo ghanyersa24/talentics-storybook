@@ -1,0 +1,107 @@
+:root {
+  --main-font-color: #333333;
+  --secondary-font-color: #828282;
+  --highlight-font-color: #3498db;
+  --white-font-color: #ffffff;
+  --main-header-color: #1a2e5a;
+  --error-color: #eb5757;
+  --disable-color: #e0e0e0;
+  --success-color: #27ae60;
+  --link-color: #3498db;
+  --transcript-main-color: #8559a6;
+
+  /* color brand */
+  --color-brand-primary-yellow: #ffc429;
+  --color-brand-primary-navy: #1a2e5a;
+
+  /* UI text */
+  --color-ui-text-main-title: #1a2e5a;
+  --color-ui-text-primary: #333333;
+  --color-ui-text-secondary: #828282;
+  --color-ui-text-secondary-2: #676767;
+  --color-ui-text-tertiary: #bdbdbd;
+  --color-ui-text-tertiary-2: #979797;
+  --color-ui-text-placeholder: #c0c0c0;
+  --color-ui-text-success: #27ae60;
+  --color-ui-text-error: #eb5757;
+  --color-ui-text-link: #3498db;
+  --color-ui-text-link-2: #334fbb;
+  --color-ui-text-white: #ffffff;
+  --color-ui-text-blue: #1e2058;
+  --color-ui-text-blue-2: #07297a;
+
+  /* UI element */
+  --color-ui-element-soft-blue: #56ccf2;
+  --color-ui-element-light-blue: #e1f4ff;
+  --color-ui-element-blue-3: #0f68ef;
+  --color-ui-element-blue-4: #3b7ef8;
+  --color-ui-element-blue-azure-900: #092c69;
+  --color-ui-element-blue-azure-500: #3498db; /* known as blue before */
+  --color-ui-element-navy: #1a2e5a;
+  --color-ui-element-soft-green: #6fcf97;
+  --color-ui-element-green: #27ae60;
+  --color-ui-element-grass-100: #d4fad4; /* also known as green soft */
+  --color-ui-element-dark-green: #219653;
+  --color-ui-element-neutral-light-1: #828282; /* known as dark-grey before */
+  --color-ui-element-neutral-light-2: #bdbdbd; /* known as grey before */
+  --color-ui-element-neutral-light-3: #e0e0e0; /* known as smoke-grey before */
+  --color-ui-element-neutral-light-4: #f2f2f2; /* known as snow before */
+  --color-ui-element-neutral-dark-5: #5e5e5e;
+  --color-ui-element-bold-grey: #4f4f4f;
+  --color-ui-element-black: #333333;
+  --color-ui-element-yellow: #ffc429;
+  --color-ui-element-yellow-lime: #fdce1b;
+  --color-ui-element-orange: #f2994a;
+  --color-ui-element-orange-600: #db7818;
+  --color-ui-element-orange-500: #ff9922;
+  --color-ui-element-red: #eb5757;
+  --color-ui-element-red-500: #ff3838;
+  --color-ui-element-overlay: rgba(51, 51, 51, 0.5);
+
+  /* background */
+  --color-background-snow: #f2f2f2;
+  --color-background-lite: #fafafa;
+  --color-background-white: #fff;
+  --color-background-soft-blue: #e6f6ff;
+  --color-background-soft-yellow: #fff6e0;
+  --color-background-bg-400: #ededed;
+
+  /**
+    * =================
+    * New Color Pallate
+    * Ref: https://www.figma.com/file/qXqABeVpt8dNqrYftF0usI/Foundation-Guideline%3A-Sekolah.mu?node-id=1626%3A263
+    * =================
+    */
+
+  --color-text-primary: #333333; /* Carbon */
+  --color-text-secondary: #676767; /* Gargoyle */
+  --color-text-placeholder: #979797; /* Dead_pixel */
+
+  --color-persian-blue-700: #111280;
+  --color-persian-blue-500: #2325b3;
+  --color-persian-blue-400: #5354d1;
+  --color-persian-blue-100: #ebedfe;
+
+  --color-busty-blue-600: #2f00a7;
+
+  --color-azure-700: #0046b7;
+
+  --color-royal-navy-500: #006AD3;
+  --color-royal-navy-700: #003d97;
+  --color-royal-navy-900: #001E65;
+
+  --color-gamboge-500: #ec9808;
+  --color-gamboge-300: #f9ce68;
+  --color-gamboge-200: #fffbde;
+  --color-gamboge-150: #ffe4d7;
+  --color-gamboge-100: #fef3cc;
+
+  --color-neutral-500: #d1d1d2;
+
+  // siap sekolah
+  --color-red: #d93257;
+  --color-yellow: #f6b018;
+  --color-yellow-light: #fdce1c;
+  --color-grey: #dedede;
+  --color-grey-dark: #c7c7c7;
+}

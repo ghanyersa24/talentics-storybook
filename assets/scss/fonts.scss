@@ -1,0 +1,82 @@
+// @font-face {
+//   font-family: 'mosk-normal';
+//   src: url(~assets/fonts/Mosk-Normal-400.ttf) format('truetype');
+//   font-display: swap;
+// }
+// @font-face {
+//   font-family: 'mosk-bold';
+//   src: url(~assets/fonts/Mosk-Bold-700.ttf) format('truetype');
+//   font-display: swap;
+// }
+
+@font-face {
+  font-family: 'gotham-normal';
+  src: url(~assets/fonts/Gotham-Book.woff2) format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'gotham-bold';
+  src: url(~assets/fonts/Gotham-Medium.woff2) format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'poppins-bold';
+  src: url(~assets/fonts/Poppins/Poppins-Bold.woff2) format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'poppins-medium';
+  src: url(~assets/fonts/Poppins/Poppins-Medium.woff2) format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'poppins-regular';
+  src: url(~assets/fonts/Poppins/Poppins-Regular.woff2) format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'poppins-light';
+  src: url(~assets/fonts/Poppins/Poppins-Light.woff2) format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'poppins-semi-bold';
+  src: url(~assets/fonts/Poppins/Poppins-SemiBold.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('~assets/fonts/Inter-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('~assets/fonts/Inter-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  src: url('~assets/fonts/CrimsonPro-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Crimson Text';
+  src: url('~assets/fonts/CrimsonText-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Dancing Script';
+  src: url('~assets/fonts/DancingScript-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
